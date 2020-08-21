@@ -73,6 +73,7 @@ This list is in **US Dollars**.
 |direct|20|
 |directory|13|
 |discount|20|
+|dk|7.28|
 |doctor|66|
 |dog|33|
 |domains|20|
